@@ -69,6 +69,21 @@ Color Options: Black, Silver, Grey, etc.
 
 Screen Size Options: 13.3", 14", 15.6", etc.
 
+<img width="1193" height="610" alt="Screenshot 2025-09-18 142328" src="https://github.com/user-attachments/assets/24badc2b-4da7-4f6e-807b-467803207961" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 💡 Use Cases:
 
 Sales Team: To identify top-selling laptop brands and focus on high-performing segments.
